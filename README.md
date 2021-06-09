@@ -1,1 +1,1 @@
-# SegML
+# Processamento de Imagens Médicas - SegML
